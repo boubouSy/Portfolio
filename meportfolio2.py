@@ -97,7 +97,7 @@ st.markdown("""
 
 * **Développement SIG 🌍**
 
-* **Topographe 📍**
+* **Topographie 📍**
 
 * **Géoréférencement & Numérisation**
 
@@ -138,7 +138,7 @@ with st.container(border=True):
     st.header("PROJETS PERSONNELS")
 
 st.markdown("""
-* Créer une application mobile gratuite pour les services de santé nécessiteux et qui sera dédiée au calcul des Indices de Masses corporelles (IMC) 
+* Créer une application mobile gratuite pour les services de santé nécessiteux et qui sera dédiée au calcul des Indices de Masses corporelles (IMC). 
 
 """)
 
