@@ -14,7 +14,7 @@ with st.sidebar:
     
     **Téléphone 📞**: *+221763315871*
 
-    **Email 📧**: *bouboujaddel19@gmail.com*
+    **Email 📧**:*bouboujaddel19@gmail.com*
     """)
 
     url_linkedin = "https://www.linkedin.com/in/boubou-sy-32107121a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFynQEFPGS42qJIWUg7yFig%3D%3D"
