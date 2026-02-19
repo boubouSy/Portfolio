@@ -2,7 +2,7 @@ import streamlit as st
 
 #Configuration de la page
 st.set_page_config(
-    page_title = "Boubou SY - Portfolio",
+    page_title = "Boubou SY - PORTFOLIO",
     layout = "wide"
 )
 
