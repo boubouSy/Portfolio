@@ -3,7 +3,7 @@ import streamlit as st
 #Configuration de la page
 st.set_page_config(
     page_title = "Boubou SY - Portfolio",
-    layout = "wide"
+    layout = "centered"
 )
 
 #Ma partie sidebar
